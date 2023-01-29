@@ -28,6 +28,7 @@
 
 - 2023.01.29~ing
 - Repository [Android fundamentals 02.2:Activity lifecycle and state](https://github.com/sunjoolee-googlecodelabs/Android-fundamentals-02.2-Activity-lifecycle-and-state)
+- Repository [simpleShoppingList](https://github.com/sunjoolee-googlecodelabs/simpleShoppingList)
 - Velog [Android fundamentals 02.2:Activity lifecycle and state](https://velog.io/@sunjoo9912/Android-fundamentals-02.2Activity-lifecycle-and-state-mpfjpmvh)
 
 
