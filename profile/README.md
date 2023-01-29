@@ -21,12 +21,13 @@
 ### [2.1: 활동 및 인텐트](https://developer.android.com/codelabs/android-training-create-an-activity?index=..%2F..%2Fandroid-training&hl=ko#0)✅
 
 - 2023.01.15~2023.01.29
-- [Repository](https://github.com/sunjoolee-googlecodelabs/Android-fundamentals-02.1-Activities-and-intents)
+- Repository [Android fundamentals 02.1:Activities and intents](https://github.com/sunjoolee-googlecodelabs/Android-fundamentals-02.1-Activities-and-intents)
 - Velog [Android fundamentals 02.1:Activities and intents](https://velog.io/@sunjoo9912/Android-fundamentals-02.1Activities-and-intents)
 
 ### [2.2: 활동 수명 주기 및 상태](https://developer.android.com/codelabs/android-training-activity-lifecycle-and-state?index=..%2F..%2Fandroid-training#0)
 
 - 2023.01.29~ing
+- Repository [Android fundamentals 02.2:Activity lifecycle and state](https://github.com/sunjoolee-googlecodelabs/Android-fundamentals-02.2-Activity-lifecycle-and-state)
 - Velog [Android fundamentals 02.2:Activity lifecycle and state](https://velog.io/@sunjoo9912/Android-fundamentals-02.2Activity-lifecycle-and-state-mpfjpmvh)
 
 
