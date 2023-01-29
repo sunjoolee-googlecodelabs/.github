@@ -20,6 +20,7 @@
 
 ### [2.1: 활동 및 인텐트](https://developer.android.com/codelabs/android-training-create-an-activity?index=..%2F..%2Fandroid-training&hl=ko#0)
 - 2023.01.15~2023.01.28
+- [Repository](https://github.com/sunjoolee-googlecodelabs/Android-fundamentals-02.1-Activities-and-intents)
 - Velog [Android fundamentals 02.1:Activities and intents (1)](https://velog.io/@sunjoo9912/Android-fundamentals-02.1Activities-and-intents)
 - Velog [Android fundamentals 02.1:Activities and intents (2)](https://velog.io/@sunjoo9912/Android-fundamentals-02.1Activities-and-intents-2)
 
