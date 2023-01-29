@@ -1,5 +1,8 @@
 # GoogleCodelabs
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sunjoo9912&tag=GoogleCodelabs)](https://github.com/eungyeole/velog-readme-stats)
+
+
 ### [Kotlin으로 변환](https://codelabs.developers.google.com/codelabs/java-to-kotlin?hl=ko#0)✅
 - 2023.01.14~2023.01.14
 
