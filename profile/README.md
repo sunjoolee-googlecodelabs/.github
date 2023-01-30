@@ -28,8 +28,8 @@
 ### [2.2: 활동 수명 주기 및 상태](https://developer.android.com/codelabs/android-training-activity-lifecycle-and-state?index=..%2F..%2Fandroid-training#0)✅
 
 - 2023.01.29~2023.01.29
-- 📂 [Android fundamentals 02.2:Activity lifecycle and state](https://github.com/sunjoolee-googlecodelabs/Android-fundamentals-02.2-Activity-lifecycle-and-state)
-- 📂 [simpleShoppingList](https://github.com/sunjoolee-googlecodelabs/simpleShoppingList)
+- 📂[Android fundamentals 02.2:Activity lifecycle and state](https://github.com/sunjoolee-googlecodelabs/Android-fundamentals-02.2-Activity-lifecycle-and-state)
+- 📂[simpleShoppingList](https://github.com/sunjoolee-googlecodelabs/simpleShoppingList)
 - 📝[Android fundamentals 02.2:Activity lifecycle and state](https://velog.io/@sunjoo9912/Android-fundamentals-02.2Activity-lifecycle-and-state-mpfjpmvh)
 
 
