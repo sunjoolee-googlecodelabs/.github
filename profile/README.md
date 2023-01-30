@@ -33,6 +33,11 @@
 - 📝[Android fundamentals 02.2:Activity lifecycle and state](https://velog.io/@sunjoo9912/Android-fundamentals-02.2Activity-lifecycle-and-state-mpfjpmvh)
 - 📝[Android fundamentals 02.2:활동 수명 주기 및 상태 정리](https://velog.io/@sunjoo9912/Android-fundamentals-02.2%ED%99%9C%EB%8F%99-%EC%88%98%EB%AA%85-%EC%A3%BC%EA%B8%B0-%EB%B0%8F-%EC%83%81%ED%83%9C-%EC%A0%95%EB%A6%AC)
 
+### [2.3: 암시적 인텐트](https://developer.android.com/codelabs/android-training-activity-with-implicit-intent?index=..%2F..%2Fandroid-training#3)
+
+- 2023.01.30~ing
+- 📝[Android fundamentals 02.3:Implicit intents](https://velog.io/@sunjoo9912/Android-fundamentals-02.3Implicit-intents)
+
 
  
  
