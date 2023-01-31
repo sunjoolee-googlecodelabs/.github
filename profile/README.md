@@ -36,6 +36,7 @@
 ### [2.3: 암시적 인텐트](https://developer.android.com/codelabs/android-training-activity-with-implicit-intent?index=..%2F..%2Fandroid-training#3)
 
 - 2023.01.30~ing
+- 📂[Android fundamentals 02.3:Implicit intents](https://github.com/sunjoolee-googlecodelabs/Android-fundamentals-02.3-Implicit-intents)
 - 📝[Android fundamentals 02.3:Implicit intents](https://velog.io/@sunjoo9912/Android-fundamentals-02.3Implicit-intents)
 
 
