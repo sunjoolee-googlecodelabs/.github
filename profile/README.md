@@ -39,6 +39,10 @@
 - 📂[Android fundamentals 02.3:Implicit intents](https://github.com/sunjoolee-googlecodelabs/Android-fundamentals-02.3-Implicit-intents)
 - 📝[Android fundamentals 02.3:Implicit intents](https://velog.io/@sunjoo9912/Android-fundamentals-02.3Implicit-intents)
 
+### [3.1: 디버거](https://developer.android.com/codelabs/android-training-using-debugger?index=..%2F..%2Fandroid-training#0)
+
+- 2023.02.03~ing
+- 📝[Android fundamentals 03.1:The debugger](https://velog.io/@sunjoo9912/Android-fundamentals-03.1The-debugger)
 
  
  
