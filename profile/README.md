@@ -42,6 +42,7 @@
 ### [3.1: 디버거](https://developer.android.com/codelabs/android-training-using-debugger?index=..%2F..%2Fandroid-training#0)
 
 - 2023.02.03~ing
+- 📂[android-fundamentals-starter-apps-v2](https://github.com/sunjoolee-googlecodelabs/android-fundamentals-starter-apps-v2)
 - 📝[Android fundamentals 03.1:The debugger](https://velog.io/@sunjoo9912/Android-fundamentals-03.1The-debugger)
 
  
