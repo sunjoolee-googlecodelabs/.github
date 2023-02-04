@@ -52,7 +52,7 @@
 
 ## 고급 Android 개발 Codelab
 
-#### [1.1: 프래그먼트](https://developer.android.com/codelabs/advanced-android-training-fragments?index=..%2F..advanced-android-training#0)
+### [1.1: 프래그먼트](https://developer.android.com/codelabs/advanced-android-training-fragments?index=..%2F..advanced-android-training#0)
 
 - 2023.02.04~ing
 - 📝[Advanced Android 01.1:Fragments](https://velog.io/@sunjoo9912/Advanced-Android-01.1Fragments)
