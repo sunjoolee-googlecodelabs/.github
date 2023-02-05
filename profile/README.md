@@ -50,6 +50,12 @@
 - 📂[Droid Cafe](https://github.com/sunjoolee-googlecodelabs/Droid-Cafe)
 - 📝[Android fundamentals 04.1:Clickable images](https://velog.io/@sunjoo9912/Android-fundamentals-04.1Clickable-images)
 
+### [4.5: RecyclerView](https://developer.android.com/codelabs/android-training-create-recycler-view?index=..%2F..%2Fandroid-training#0)
+
+- 2023.02.05~ing
+- 📂[RecyclerView](https://github.com/sunjoolee-googlecodelabs/RecyclerView)
+- 📝[Android fundamentals 04.5:RecyclerView](https://velog.io/@sunjoo9912/Android-fundamentals-04.5RecyclerView)
+
 ## 고급 Android 개발 Codelab
 
 ### [1.1: 프래그먼트](https://developer.android.com/codelabs/advanced-android-training-fragments?index=..%2F..advanced-android-training#0)
