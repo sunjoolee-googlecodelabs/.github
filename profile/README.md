@@ -44,9 +44,9 @@
 - 2023.02.03~ing
 - 📝[Android fundamentals 03.1:The debugger](https://velog.io/@sunjoo9912/Android-fundamentals-03.1The-debugger)
 
-### [4.1: 클릭 가능한 이미지](https://developer.android.com/codelabs/android-training-clickable-images?index=..%2F..%2Fandroid-training#0)
+### [4.1: 클릭 가능한 이미지](https://developer.android.com/codelabs/android-training-clickable-images?index=..%2F..%2Fandroid-training#0)✅
 
-- 2023.02.04~ing
+- 2023.02.04~2023.02.05
 - 📂[Droid Cafe](https://github.com/sunjoolee-googlecodelabs/Droid-Cafe)
 - 📝[Android fundamentals 04.1:Clickable images](https://velog.io/@sunjoo9912/Android-fundamentals-04.1Clickable-images)
 
