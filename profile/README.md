@@ -50,10 +50,11 @@
 - 📂[Droid Cafe](https://github.com/sunjoolee-googlecodelabs/Droid-Cafe)
 - 📝[Android fundamentals 04.1:Clickable images](https://velog.io/@sunjoo9912/Android-fundamentals-04.1Clickable-images)
 
-### [4.2: 입력 컨트롤](https://developer.android.com/codelabs/android-training-input-controls?index=..%2F..%2Fandroid-training#0)
+### [4.2: 입력 컨트롤](https://developer.android.com/codelabs/android-training-input-controls?index=..%2F..%2Fandroid-training#0)✅
 
-- 2023.02.12~ing
+- 2023.02.12~2023.02.13
 - 📂[Droid Cafe](https://github.com/sunjoolee-googlecodelabs/Droid-Cafe)
+- 📂[KeyBoardDialPhone](https://github.com/sunjoolee-googlecodelabs/KeyBoardDialPhone)
 - 📝[Android fundamentals 04.2:Input controls](https://velog.io/@sunjoo9912/Android-fundamentals-04.2Input-controls)
 
 ### [4.3: 메뉴 및 선택 도구](https://developer.android.com/codelabs/android-training-menus-and-pickers?index=..%2F..%2Fandroid-training#0)
