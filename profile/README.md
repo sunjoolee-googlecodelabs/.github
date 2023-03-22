@@ -7,7 +7,7 @@
 
 ## 🏁 Android 개발자 기초 Codelab
 
-### [과정3. 탐색]
+### [과정3: 탐색](https://developer.android.com/codelabs/kotlin-android-training-create-and-add-fragment?index=..%2F..android-kotlin-fundamentals#2)
 
 - 2023.03.22~ing
 - 📂[AndroidTrivia](https://github.com/sunjoolee-googlecodelabs/AndroidTrivia)
