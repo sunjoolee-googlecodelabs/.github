@@ -1,24 +1,21 @@
 # GoogleCodelabs
 
-- [Google Codelabs 시리즈](https://velog.io/@sunjoo9912/series/Google-Codelabs)
+- 📝[Google Codelabs 시리즈](https://velog.io/@sunjoo9912/series/Google-Codelabs)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sunjoo9912&tag=GoogleCodelabs)](https://github.com/eungyeole/velog-readme-stats)
 
 
-### [Kotlin으로 변환](https://codelabs.developers.google.com/codelabs/java-to-kotlin?hl=ko#0)✅
-- 2023.01.14~2023.01.14
+## 🏁 Android 개발자 기초 Codelab
 
-### [뷰를 사용한 Android Room - Kotlin](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#3) 
+### [과정3. 탐색]
 
-- 2023.01.07~ing
-- 📝[뷰를 사용한 Android Room - Kotlin](https://velog.io/@sunjoo9912/%EB%B7%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-Android-Room-Kotlin)
+- 2023.03.22~ing
+- 📂[AndroidTrivia](https://github.com/sunjoolee-googlecodelabs/AndroidTrivia)
+- 📝[Android Kotlin Fundamentals: Create a fragment](https://velog.io/@sunjoo9912/Android-Kotlin-Fundamentals-Create-a-fragment)
 
-### [Use Kotlin Coroutines in your Android App](https://developer.android.com/codelabs/kotlin-coroutines?hl=ko#0) 
 
--  2023.01.14~ing
-- 📝[Use Kotlin Coroutines in your Android App](https://velog.io/@sunjoo9912/Use-Kotlin-Coroutines-in-your-Android-App)
   
-## Android 개발자 기초 Codelab
+## 🏁 Android 개발자 기초 Codelab
 
 ### [2.1: 활동 및 인텐트](https://developer.android.com/codelabs/android-training-create-an-activity?index=..%2F..%2Fandroid-training&hl=ko#0)✅
 
@@ -69,12 +66,27 @@
 - 📂[RecyclerView](https://github.com/sunjoolee-googlecodelabs/RecyclerView)
 - 📝[Android fundamentals 04.5:RecyclerView](https://velog.io/@sunjoo9912/Android-fundamentals-04.5RecyclerView)
 
-## 고급 Android 개발 Codelab
+## 🏁 고급 Android 개발 Codelab
 
 ### [1.1: 프래그먼트](https://developer.android.com/codelabs/advanced-android-training-fragments?index=..%2F..advanced-android-training#0)
 
 - 2023.02.04~ing
 - 📝[Advanced Android 01.1:Fragments](https://velog.io/@sunjoo9912/Advanced-Android-01.1Fragments)
+
+## 🏁 More Codelabs...
+
+### [Kotlin으로 변환](https://codelabs.developers.google.com/codelabs/java-to-kotlin?hl=ko#0)✅
+- 2023.01.14~2023.01.14
+
+### [뷰를 사용한 Android Room - Kotlin](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#3) 
+
+- 2023.01.07~ing
+- 📝[뷰를 사용한 Android Room - Kotlin](https://velog.io/@sunjoo9912/%EB%B7%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-Android-Room-Kotlin)
+
+### [Use Kotlin Coroutines in your Android App](https://developer.android.com/codelabs/kotlin-coroutines?hl=ko#0) 
+
+-  2023.01.14~ing
+- 📝[Use Kotlin Coroutines in your Android App](https://velog.io/@sunjoo9912/Use-Kotlin-Coroutines-in-your-Android-App)
 
  
  
